@@ -4,6 +4,7 @@
     <color name="black">#FF000000</color>
     <color name="card_stroke">#1F000000</color>
     <color name="checkbox_color">#FF6200EE</color>
+    <color name="ic_launcher_background">#FFFFFF</color>
     <color name="primary_color">#FF6200EE</color>
     <color name="primary_variant">#FF3700B3</color>
     <color name="secondary_color">#FF03DAC5</color>
