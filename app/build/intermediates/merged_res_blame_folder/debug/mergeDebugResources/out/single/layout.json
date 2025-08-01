@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.example.taskmanager.app-mergeDebugResources-31:/layout/item_task.xml",
+        "source": "com.example.taskmanager.app-main-34:/layout/item_task.xml"
+    },
+    {
+        "merged": "com.example.taskmanager.app-mergeDebugResources-31:/layout/dialog_add_task.xml",
+        "source": "com.example.taskmanager.app-main-34:/layout/dialog_add_task.xml"
+    },
+    {
+        "merged": "com.example.taskmanager.app-mergeDebugResources-31:/layout/activity_main.xml",
+        "source": "com.example.taskmanager.app-main-34:/layout/activity_main.xml"
+    }
+]
