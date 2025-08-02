@@ -1,20 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.taskmanager.app-mergeDebugResources-30:/values-v16/values-v16.xml",
+            "outputFile": "com.example.taskmanager.app-mergeDebugResources-36:/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "/home/jwty/.gradle/caches/8.14/transforms/f10c9590c101dbd152cb2c5af48516fe/transformed/core-1.12.0/res/values-v16/values-v16.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "65",
-                        "endOffsets": "116"
-                    }
-                },
-                {
-                    "source": "/home/jwty/.gradle/caches/8.14/transforms/8ca5e4a5a7fad9c3e1029f0001bd8683/transformed/appcompat-1.6.1/res/values-v16/values-v16.xml",
+                    "source": "/home/jwty/.gradle/caches/8.14/transforms/3894c531a5a6fd7924ec0d2765dde3ae/transformed/appcompat-1.7.1/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -22,14 +12,6 @@
                         "endLines": "5",
                         "endColumns": "12",
                         "endOffsets": "223"
-                    },
-                    "to": {
-                        "startLines": "3",
-                        "startColumns": "4",
-                        "startOffsets": "121",
-                        "endLines": "6",
-                        "endColumns": "12",
-                        "endOffsets": "289"
                     }
                 }
             ]
