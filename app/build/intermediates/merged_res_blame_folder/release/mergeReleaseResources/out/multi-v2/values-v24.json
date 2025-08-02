@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.taskmanager.app-mergeReleaseResources-30:/values-v24/values-v24.xml",
+            "outputFile": "com.example.taskmanager.app-mergeReleaseResources-36:/values-v24/values-v24.xml",
             "map": [
                 {
-                    "source": "/home/jwty/.gradle/caches/8.14/transforms/8ca5e4a5a7fad9c3e1029f0001bd8683/transformed/appcompat-1.6.1/res/values-v24/values-v24.xml",
+                    "source": "/home/jwty/.gradle/caches/8.14/transforms/3894c531a5a6fd7924ec0d2765dde3ae/transformed/appcompat-1.7.1/res/values-v24/values-v24.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "/home/jwty/.gradle/caches/8.14/transforms/83a24f41c94c336257e6ce2fe3dd7e13/transformed/material-1.11.0/res/values-v24/values-v24.xml",
+                    "source": "/home/jwty/.gradle/caches/8.14/transforms/221700ffba8e365e142a56a102e1f6d4/transformed/material-1.12.0/res/values-v24/values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,9,12,15",
                         "startColumns": "4,4,4,4,4,4,4,4",

@@ -13,6 +13,7 @@ color surface
 color text_primary
 color text_secondary
 color white
+drawable ic_launcher_foreground
 id btnAddTask
 id btnClearCompleted
 id btnDatePicker

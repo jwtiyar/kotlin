@@ -6,144 +6,151 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="26"
-9        android:targetSdkVersion="34" />
+9        android:targetSdkVersion="36" />
 10
 11    <uses-permission android:name="android.permission.SCHEDULE_EXACT_ALARM" />
-11-->/home/jwty/StudioProjects/kotlin/app/src/main/AndroidManifest.xml:7:5-79
-11-->/home/jwty/StudioProjects/kotlin/app/src/main/AndroidManifest.xml:7:22-76
+11-->/home/jwty/StudioProjects/kotlin/app/src/main/AndroidManifest.xml:5:5-79
+11-->/home/jwty/StudioProjects/kotlin/app/src/main/AndroidManifest.xml:5:22-76
 12    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
-12-->/home/jwty/StudioProjects/kotlin/app/src/main/AndroidManifest.xml:8:5-77
-12-->/home/jwty/StudioProjects/kotlin/app/src/main/AndroidManifest.xml:8:22-74
+12-->/home/jwty/StudioProjects/kotlin/app/src/main/AndroidManifest.xml:6:5-77
+12-->/home/jwty/StudioProjects/kotlin/app/src/main/AndroidManifest.xml:6:22-74
 13    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
-13-->/home/jwty/StudioProjects/kotlin/app/src/main/AndroidManifest.xml:9:5-81
-13-->/home/jwty/StudioProjects/kotlin/app/src/main/AndroidManifest.xml:9:22-78
+13-->/home/jwty/StudioProjects/kotlin/app/src/main/AndroidManifest.xml:7:5-81
+13-->/home/jwty/StudioProjects/kotlin/app/src/main/AndroidManifest.xml:7:22-78
 14
 15    <permission
-15-->[androidx.core:core:1.12.0] /home/jwty/.gradle/caches/8.14/transforms/f10c9590c101dbd152cb2c5af48516fe/transformed/core-1.12.0/AndroidManifest.xml:22:5-24:47
+15-->[androidx.core:core:1.16.0] /home/jwty/.gradle/caches/8.14/transforms/ba2fa85f96a46bb4c32830771e41e6df/transformed/core-1.16.0/AndroidManifest.xml:22:5-24:47
 16        android:name="com.example.taskmanager.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
-16-->[androidx.core:core:1.12.0] /home/jwty/.gradle/caches/8.14/transforms/f10c9590c101dbd152cb2c5af48516fe/transformed/core-1.12.0/AndroidManifest.xml:23:9-81
+16-->[androidx.core:core:1.16.0] /home/jwty/.gradle/caches/8.14/transforms/ba2fa85f96a46bb4c32830771e41e6df/transformed/core-1.16.0/AndroidManifest.xml:23:9-81
 17        android:protectionLevel="signature" />
-17-->[androidx.core:core:1.12.0] /home/jwty/.gradle/caches/8.14/transforms/f10c9590c101dbd152cb2c5af48516fe/transformed/core-1.12.0/AndroidManifest.xml:24:9-44
+17-->[androidx.core:core:1.16.0] /home/jwty/.gradle/caches/8.14/transforms/ba2fa85f96a46bb4c32830771e41e6df/transformed/core-1.16.0/AndroidManifest.xml:24:9-44
 18
 19    <uses-permission android:name="com.example.taskmanager.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
-19-->[androidx.core:core:1.12.0] /home/jwty/.gradle/caches/8.14/transforms/f10c9590c101dbd152cb2c5af48516fe/transformed/core-1.12.0/AndroidManifest.xml:26:5-97
-19-->[androidx.core:core:1.12.0] /home/jwty/.gradle/caches/8.14/transforms/f10c9590c101dbd152cb2c5af48516fe/transformed/core-1.12.0/AndroidManifest.xml:26:22-94
+19-->[androidx.core:core:1.16.0] /home/jwty/.gradle/caches/8.14/transforms/ba2fa85f96a46bb4c32830771e41e6df/transformed/core-1.16.0/AndroidManifest.xml:26:5-97
+19-->[androidx.core:core:1.16.0] /home/jwty/.gradle/caches/8.14/transforms/ba2fa85f96a46bb4c32830771e41e6df/transformed/core-1.16.0/AndroidManifest.xml:26:22-94
 20
 21    <application
-21-->/home/jwty/StudioProjects/kotlin/app/src/main/AndroidManifest.xml:11:5-38:19
-22        হয=""
-22-->/home/jwty/StudioProjects/kotlin/app/src/main/AndroidManifest.xml:21:9-14
-23        android:allowBackup="true"
-23-->/home/jwty/StudioProjects/kotlin/app/src/main/AndroidManifest.xml:13:9-35
-24        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-24-->[androidx.core:core:1.12.0] /home/jwty/.gradle/caches/8.14/transforms/f10c9590c101dbd152cb2c5af48516fe/transformed/core-1.12.0/AndroidManifest.xml:28:18-86
-25        android:dataExtractionRules="@xml/data_extraction_rules"
-25-->/home/jwty/StudioProjects/kotlin/app/src/main/AndroidManifest.xml:14:9-65
-26        android:extractNativeLibs="false"
-27        android:fullBackupContent="@xml/backup_rules"
-27-->/home/jwty/StudioProjects/kotlin/app/src/main/AndroidManifest.xml:15:9-54
-28        android:icon="@mipmap/ic_launcher"
-28-->/home/jwty/StudioProjects/kotlin/app/src/main/AndroidManifest.xml:16:9-43
-29        android:label="@string/app_name"
-29-->/home/jwty/StudioProjects/kotlin/app/src/main/AndroidManifest.xml:17:9-41
-30        android:roundIcon="@mipmap/ic_launcher"
-30-->/home/jwty/StudioProjects/kotlin/app/src/main/AndroidManifest.xml:22:9-48
-31        android:supportsRtl="true"
-31-->/home/jwty/StudioProjects/kotlin/app/src/main/AndroidManifest.xml:18:9-35
-32        android:theme="@style/Theme.TaskManager" >
-32-->/home/jwty/StudioProjects/kotlin/app/src/main/AndroidManifest.xml:19:9-49
-33        <activity
-33-->/home/jwty/StudioProjects/kotlin/app/src/main/AndroidManifest.xml:24:9-32:20
-34            android:name="com.example.taskmanager.MainActivity"
-34-->/home/jwty/StudioProjects/kotlin/app/src/main/AndroidManifest.xml:25:13-41
-35            android:exported="true"
-35-->/home/jwty/StudioProjects/kotlin/app/src/main/AndroidManifest.xml:26:13-36
-36            android:theme="@style/Theme.TaskManager" >
-36-->/home/jwty/StudioProjects/kotlin/app/src/main/AndroidManifest.xml:27:13-53
-37            <intent-filter>
-37-->/home/jwty/StudioProjects/kotlin/app/src/main/AndroidManifest.xml:28:13-31:29
-38                <action android:name="android.intent.action.MAIN" />
-38-->/home/jwty/StudioProjects/kotlin/app/src/main/AndroidManifest.xml:29:17-69
-38-->/home/jwty/StudioProjects/kotlin/app/src/main/AndroidManifest.xml:29:25-66
-39
-40                <category android:name="android.intent.category.LAUNCHER" />
-40-->/home/jwty/StudioProjects/kotlin/app/src/main/AndroidManifest.xml:30:17-77
-40-->/home/jwty/StudioProjects/kotlin/app/src/main/AndroidManifest.xml:30:27-74
-41            </intent-filter>
-42        </activity>
-43
-44        <receiver
-44-->/home/jwty/StudioProjects/kotlin/app/src/main/AndroidManifest.xml:34:9-36:40
-45            android:name="com.example.taskmanager.NotificationReceiver"
-45-->/home/jwty/StudioProjects/kotlin/app/src/main/AndroidManifest.xml:35:13-49
-46            android:exported="false" />
-46-->/home/jwty/StudioProjects/kotlin/app/src/main/AndroidManifest.xml:36:13-37
-47
-48        <provider
-48-->[androidx.emoji2:emoji2:1.2.0] /home/jwty/.gradle/caches/8.14/transforms/a107291f18a05c62fa9cf18d9916fbeb/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
-49            android:name="androidx.startup.InitializationProvider"
-49-->[androidx.emoji2:emoji2:1.2.0] /home/jwty/.gradle/caches/8.14/transforms/a107291f18a05c62fa9cf18d9916fbeb/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
-50            android:authorities="com.example.taskmanager.androidx-startup"
-50-->[androidx.emoji2:emoji2:1.2.0] /home/jwty/.gradle/caches/8.14/transforms/a107291f18a05c62fa9cf18d9916fbeb/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
-51            android:exported="false" >
-51-->[androidx.emoji2:emoji2:1.2.0] /home/jwty/.gradle/caches/8.14/transforms/a107291f18a05c62fa9cf18d9916fbeb/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
-52            <meta-data
-52-->[androidx.emoji2:emoji2:1.2.0] /home/jwty/.gradle/caches/8.14/transforms/a107291f18a05c62fa9cf18d9916fbeb/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
-53                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-53-->[androidx.emoji2:emoji2:1.2.0] /home/jwty/.gradle/caches/8.14/transforms/a107291f18a05c62fa9cf18d9916fbeb/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
-54                android:value="androidx.startup" />
-54-->[androidx.emoji2:emoji2:1.2.0] /home/jwty/.gradle/caches/8.14/transforms/a107291f18a05c62fa9cf18d9916fbeb/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
-55            <meta-data
-55-->[androidx.lifecycle:lifecycle-process:2.6.1] /home/jwty/.gradle/caches/8.14/transforms/f7a1dcf9ff476a9f6f1e09f24933a385/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:29:13-31:52
-56                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-56-->[androidx.lifecycle:lifecycle-process:2.6.1] /home/jwty/.gradle/caches/8.14/transforms/f7a1dcf9ff476a9f6f1e09f24933a385/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:30:17-78
-57                android:value="androidx.startup" />
-57-->[androidx.lifecycle:lifecycle-process:2.6.1] /home/jwty/.gradle/caches/8.14/transforms/f7a1dcf9ff476a9f6f1e09f24933a385/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:31:17-49
-58            <meta-data
-58-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/jwty/.gradle/caches/8.14/transforms/7091065a959fbcaa30e2739a237370f8/transformed/profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
-59                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
-59-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/jwty/.gradle/caches/8.14/transforms/7091065a959fbcaa30e2739a237370f8/transformed/profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
-60                android:value="androidx.startup" />
-60-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/jwty/.gradle/caches/8.14/transforms/7091065a959fbcaa30e2739a237370f8/transformed/profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
-61        </provider>
-62
-63        <receiver
-63-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/jwty/.gradle/caches/8.14/transforms/7091065a959fbcaa30e2739a237370f8/transformed/profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
-64            android:name="androidx.profileinstaller.ProfileInstallReceiver"
-64-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/jwty/.gradle/caches/8.14/transforms/7091065a959fbcaa30e2739a237370f8/transformed/profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
-65            android:directBootAware="false"
-65-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/jwty/.gradle/caches/8.14/transforms/7091065a959fbcaa30e2739a237370f8/transformed/profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
-66            android:enabled="true"
-66-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/jwty/.gradle/caches/8.14/transforms/7091065a959fbcaa30e2739a237370f8/transformed/profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
-67            android:exported="true"
-67-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/jwty/.gradle/caches/8.14/transforms/7091065a959fbcaa30e2739a237370f8/transformed/profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
-68            android:permission="android.permission.DUMP" >
-68-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/jwty/.gradle/caches/8.14/transforms/7091065a959fbcaa30e2739a237370f8/transformed/profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
-69            <intent-filter>
-69-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/jwty/.gradle/caches/8.14/transforms/7091065a959fbcaa30e2739a237370f8/transformed/profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
-70                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
-70-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/jwty/.gradle/caches/8.14/transforms/7091065a959fbcaa30e2739a237370f8/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
-70-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/jwty/.gradle/caches/8.14/transforms/7091065a959fbcaa30e2739a237370f8/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
-71            </intent-filter>
-72            <intent-filter>
-72-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/jwty/.gradle/caches/8.14/transforms/7091065a959fbcaa30e2739a237370f8/transformed/profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
-73                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
-73-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/jwty/.gradle/caches/8.14/transforms/7091065a959fbcaa30e2739a237370f8/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
-73-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/jwty/.gradle/caches/8.14/transforms/7091065a959fbcaa30e2739a237370f8/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
-74            </intent-filter>
-75            <intent-filter>
-75-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/jwty/.gradle/caches/8.14/transforms/7091065a959fbcaa30e2739a237370f8/transformed/profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
-76                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
-76-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/jwty/.gradle/caches/8.14/transforms/7091065a959fbcaa30e2739a237370f8/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
-76-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/jwty/.gradle/caches/8.14/transforms/7091065a959fbcaa30e2739a237370f8/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
-77            </intent-filter>
-78            <intent-filter>
-78-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/jwty/.gradle/caches/8.14/transforms/7091065a959fbcaa30e2739a237370f8/transformed/profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
-79                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
-79-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/jwty/.gradle/caches/8.14/transforms/7091065a959fbcaa30e2739a237370f8/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
-79-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/jwty/.gradle/caches/8.14/transforms/7091065a959fbcaa30e2739a237370f8/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:25-92
-80            </intent-filter>
-81        </receiver>
-82    </application>
-83
-84</manifest>
+21-->/home/jwty/StudioProjects/kotlin/app/src/main/AndroidManifest.xml:9:5-34:19
+22        android:allowBackup="true"
+22-->/home/jwty/StudioProjects/kotlin/app/src/main/AndroidManifest.xml:10:9-35
+23        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+23-->[androidx.core:core:1.16.0] /home/jwty/.gradle/caches/8.14/transforms/ba2fa85f96a46bb4c32830771e41e6df/transformed/core-1.16.0/AndroidManifest.xml:28:18-86
+24        android:dataExtractionRules="@xml/data_extraction_rules"
+24-->/home/jwty/StudioProjects/kotlin/app/src/main/AndroidManifest.xml:11:9-65
+25        android:extractNativeLibs="false"
+26        android:fullBackupContent="@xml/backup_rules"
+26-->/home/jwty/StudioProjects/kotlin/app/src/main/AndroidManifest.xml:12:9-54
+27        android:icon="@mipmap/ic_launcher"
+27-->/home/jwty/StudioProjects/kotlin/app/src/main/AndroidManifest.xml:13:9-43
+28        android:label="@string/app_name"
+28-->/home/jwty/StudioProjects/kotlin/app/src/main/AndroidManifest.xml:14:9-41
+29        android:roundIcon="@mipmap/ic_launcher"
+29-->/home/jwty/StudioProjects/kotlin/app/src/main/AndroidManifest.xml:18:9-48
+30        android:supportsRtl="true"
+30-->/home/jwty/StudioProjects/kotlin/app/src/main/AndroidManifest.xml:15:9-35
+31        android:theme="@style/Theme.TaskManager" >
+31-->/home/jwty/StudioProjects/kotlin/app/src/main/AndroidManifest.xml:16:9-49
+32        <activity
+32-->/home/jwty/StudioProjects/kotlin/app/src/main/AndroidManifest.xml:20:9-28:20
+33            android:name="com.example.taskmanager.MainActivity"
+33-->/home/jwty/StudioProjects/kotlin/app/src/main/AndroidManifest.xml:21:13-41
+34            android:exported="true"
+34-->/home/jwty/StudioProjects/kotlin/app/src/main/AndroidManifest.xml:22:13-36
+35            android:theme="@style/Theme.TaskManager" >
+35-->/home/jwty/StudioProjects/kotlin/app/src/main/AndroidManifest.xml:23:13-53
+36            <intent-filter>
+36-->/home/jwty/StudioProjects/kotlin/app/src/main/AndroidManifest.xml:24:13-27:29
+37                <action android:name="android.intent.action.MAIN" />
+37-->/home/jwty/StudioProjects/kotlin/app/src/main/AndroidManifest.xml:25:17-69
+37-->/home/jwty/StudioProjects/kotlin/app/src/main/AndroidManifest.xml:25:25-66
+38
+39                <category android:name="android.intent.category.LAUNCHER" />
+39-->/home/jwty/StudioProjects/kotlin/app/src/main/AndroidManifest.xml:26:17-77
+39-->/home/jwty/StudioProjects/kotlin/app/src/main/AndroidManifest.xml:26:27-74
+40            </intent-filter>
+41        </activity>
+42
+43        <receiver
+43-->/home/jwty/StudioProjects/kotlin/app/src/main/AndroidManifest.xml:30:9-32:40
+44            android:name="com.example.taskmanager.NotificationReceiver"
+44-->/home/jwty/StudioProjects/kotlin/app/src/main/AndroidManifest.xml:31:13-49
+45            android:exported="false" />
+45-->/home/jwty/StudioProjects/kotlin/app/src/main/AndroidManifest.xml:32:13-37
+46
+47        <provider
+47-->[androidx.emoji2:emoji2:1.3.0] /home/jwty/.gradle/caches/8.14/transforms/46dac534563e243b3b362c8617580e3c/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+48            android:name="androidx.startup.InitializationProvider"
+48-->[androidx.emoji2:emoji2:1.3.0] /home/jwty/.gradle/caches/8.14/transforms/46dac534563e243b3b362c8617580e3c/transformed/emoji2-1.3.0/AndroidManifest.xml:25:13-67
+49            android:authorities="com.example.taskmanager.androidx-startup"
+49-->[androidx.emoji2:emoji2:1.3.0] /home/jwty/.gradle/caches/8.14/transforms/46dac534563e243b3b362c8617580e3c/transformed/emoji2-1.3.0/AndroidManifest.xml:26:13-68
+50            android:exported="false" >
+50-->[androidx.emoji2:emoji2:1.3.0] /home/jwty/.gradle/caches/8.14/transforms/46dac534563e243b3b362c8617580e3c/transformed/emoji2-1.3.0/AndroidManifest.xml:27:13-37
+51            <meta-data
+51-->[androidx.emoji2:emoji2:1.3.0] /home/jwty/.gradle/caches/8.14/transforms/46dac534563e243b3b362c8617580e3c/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+52                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+52-->[androidx.emoji2:emoji2:1.3.0] /home/jwty/.gradle/caches/8.14/transforms/46dac534563e243b3b362c8617580e3c/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
+53                android:value="androidx.startup" />
+53-->[androidx.emoji2:emoji2:1.3.0] /home/jwty/.gradle/caches/8.14/transforms/46dac534563e243b3b362c8617580e3c/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
+54            <meta-data
+54-->[androidx.lifecycle:lifecycle-process:2.6.2] /home/jwty/.gradle/caches/8.14/transforms/461a0ca2318582cb44487664194f7e0c/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:29:13-31:52
+55                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+55-->[androidx.lifecycle:lifecycle-process:2.6.2] /home/jwty/.gradle/caches/8.14/transforms/461a0ca2318582cb44487664194f7e0c/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:30:17-78
+56                android:value="androidx.startup" />
+56-->[androidx.lifecycle:lifecycle-process:2.6.2] /home/jwty/.gradle/caches/8.14/transforms/461a0ca2318582cb44487664194f7e0c/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:31:17-49
+57            <meta-data
+57-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/jwty/.gradle/caches/8.14/transforms/149eea179e58936c7ca22ea99a2f9d36/transformed/profileinstaller-1.4.0/AndroidManifest.xml:29:13-31:52
+58                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+58-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/jwty/.gradle/caches/8.14/transforms/149eea179e58936c7ca22ea99a2f9d36/transformed/profileinstaller-1.4.0/AndroidManifest.xml:30:17-85
+59                android:value="androidx.startup" />
+59-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/jwty/.gradle/caches/8.14/transforms/149eea179e58936c7ca22ea99a2f9d36/transformed/profileinstaller-1.4.0/AndroidManifest.xml:31:17-49
+60        </provider>
+61
+62        <service
+62-->[androidx.room:room-runtime-android:2.7.2] /home/jwty/.gradle/caches/8.14/transforms/1d1bec073160ff5fa995d80e7a9c2400/transformed/room-runtime-release/AndroidManifest.xml:24:9-28:63
+63            android:name="androidx.room.MultiInstanceInvalidationService"
+63-->[androidx.room:room-runtime-android:2.7.2] /home/jwty/.gradle/caches/8.14/transforms/1d1bec073160ff5fa995d80e7a9c2400/transformed/room-runtime-release/AndroidManifest.xml:25:13-74
+64            android:directBootAware="true"
+64-->[androidx.room:room-runtime-android:2.7.2] /home/jwty/.gradle/caches/8.14/transforms/1d1bec073160ff5fa995d80e7a9c2400/transformed/room-runtime-release/AndroidManifest.xml:26:13-43
+65            android:exported="false" />
+65-->[androidx.room:room-runtime-android:2.7.2] /home/jwty/.gradle/caches/8.14/transforms/1d1bec073160ff5fa995d80e7a9c2400/transformed/room-runtime-release/AndroidManifest.xml:27:13-37
+66
+67        <receiver
+67-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/jwty/.gradle/caches/8.14/transforms/149eea179e58936c7ca22ea99a2f9d36/transformed/profileinstaller-1.4.0/AndroidManifest.xml:34:9-52:20
+68            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+68-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/jwty/.gradle/caches/8.14/transforms/149eea179e58936c7ca22ea99a2f9d36/transformed/profileinstaller-1.4.0/AndroidManifest.xml:35:13-76
+69            android:directBootAware="false"
+69-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/jwty/.gradle/caches/8.14/transforms/149eea179e58936c7ca22ea99a2f9d36/transformed/profileinstaller-1.4.0/AndroidManifest.xml:36:13-44
+70            android:enabled="true"
+70-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/jwty/.gradle/caches/8.14/transforms/149eea179e58936c7ca22ea99a2f9d36/transformed/profileinstaller-1.4.0/AndroidManifest.xml:37:13-35
+71            android:exported="true"
+71-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/jwty/.gradle/caches/8.14/transforms/149eea179e58936c7ca22ea99a2f9d36/transformed/profileinstaller-1.4.0/AndroidManifest.xml:38:13-36
+72            android:permission="android.permission.DUMP" >
+72-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/jwty/.gradle/caches/8.14/transforms/149eea179e58936c7ca22ea99a2f9d36/transformed/profileinstaller-1.4.0/AndroidManifest.xml:39:13-57
+73            <intent-filter>
+73-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/jwty/.gradle/caches/8.14/transforms/149eea179e58936c7ca22ea99a2f9d36/transformed/profileinstaller-1.4.0/AndroidManifest.xml:40:13-42:29
+74                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+74-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/jwty/.gradle/caches/8.14/transforms/149eea179e58936c7ca22ea99a2f9d36/transformed/profileinstaller-1.4.0/AndroidManifest.xml:41:17-91
+74-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/jwty/.gradle/caches/8.14/transforms/149eea179e58936c7ca22ea99a2f9d36/transformed/profileinstaller-1.4.0/AndroidManifest.xml:41:25-88
+75            </intent-filter>
+76            <intent-filter>
+76-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/jwty/.gradle/caches/8.14/transforms/149eea179e58936c7ca22ea99a2f9d36/transformed/profileinstaller-1.4.0/AndroidManifest.xml:43:13-45:29
+77                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+77-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/jwty/.gradle/caches/8.14/transforms/149eea179e58936c7ca22ea99a2f9d36/transformed/profileinstaller-1.4.0/AndroidManifest.xml:44:17-85
+77-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/jwty/.gradle/caches/8.14/transforms/149eea179e58936c7ca22ea99a2f9d36/transformed/profileinstaller-1.4.0/AndroidManifest.xml:44:25-82
+78            </intent-filter>
+79            <intent-filter>
+79-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/jwty/.gradle/caches/8.14/transforms/149eea179e58936c7ca22ea99a2f9d36/transformed/profileinstaller-1.4.0/AndroidManifest.xml:46:13-48:29
+80                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+80-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/jwty/.gradle/caches/8.14/transforms/149eea179e58936c7ca22ea99a2f9d36/transformed/profileinstaller-1.4.0/AndroidManifest.xml:47:17-88
+80-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/jwty/.gradle/caches/8.14/transforms/149eea179e58936c7ca22ea99a2f9d36/transformed/profileinstaller-1.4.0/AndroidManifest.xml:47:25-85
+81            </intent-filter>
+82            <intent-filter>
+82-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/jwty/.gradle/caches/8.14/transforms/149eea179e58936c7ca22ea99a2f9d36/transformed/profileinstaller-1.4.0/AndroidManifest.xml:49:13-51:29
+83                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+83-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/jwty/.gradle/caches/8.14/transforms/149eea179e58936c7ca22ea99a2f9d36/transformed/profileinstaller-1.4.0/AndroidManifest.xml:50:17-95
+83-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/jwty/.gradle/caches/8.14/transforms/149eea179e58936c7ca22ea99a2f9d36/transformed/profileinstaller-1.4.0/AndroidManifest.xml:50:25-92
+84            </intent-filter>
+85        </receiver>
+86    </application>
+87
+88</manifest>
